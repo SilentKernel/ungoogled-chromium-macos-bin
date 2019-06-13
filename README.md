@@ -1,0 +1,1 @@
+# ungoogled-chromium-macos-bin
